@@ -1,4 +1,4 @@
-# 📘 BÁO CÁO ĐỒ ÁN ĐẠI SỐ TUYẾN TÍNH
+# 📘 BÁO CÁO ĐỒ ÁN TOÁN ỨNG DỤNG THỐNG KÊ
 # PHẦN 1: PHÉP KHỬ GAUSS VÀ CÁC ỨNG DỤNG
 
 Phần này tập trung vào việc xây dựng từ đầu (from scratch) các thuật toán cốt lõi của Đại số tuyến tính dựa trên Phép khử Gauss, đảm bảo tính chính xác số học và khả năng ứng dụng linh hoạt.
